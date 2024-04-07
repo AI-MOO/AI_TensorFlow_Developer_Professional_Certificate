@@ -9,7 +9,7 @@
 ### 02- Convolutional Neural Networks in TensorFlow
 * week 01: Exploring a Larger Dataset ✅ 
 * week 02: Augmentaion : A technique to avoid overfitting ✅
-* week 03: Transfer Learning 🚀
-* week 04: Multiclass Classification 
+* week 03: Transfer Learning ✅
+* week 04: Multiclass Classification 🚀
 
 Current Status: ✅: Done | 🚀: In Progress
