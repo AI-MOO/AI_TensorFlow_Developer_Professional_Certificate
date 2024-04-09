@@ -13,8 +13,8 @@
 * week 04: Multiclass Classification ✅
 
 ### 03- Natural Language Processing in TensorFlow
-* week 01: Sentiment in text 🚀
-* week 02: Word Embeddings 
+* week 01: Sentiment in text ✅
+* week 02: Word Embeddings 🚀
 * week 03: Sequence Models
 * week 04: Sequence Models and literature
 
