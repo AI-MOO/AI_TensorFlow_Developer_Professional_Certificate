@@ -18,3 +18,6 @@ ai_env
 02_CNN_In_Tensorflow/04_Multiclass_Classification/tmp
 02_CNN_In_Tensorflow/04_Multiclass_Classification/rps-test-set.zip
 02_CNN_In_Tensorflow/04_Multiclass_Classification/rps.zip
+03_NLP_Tensorflow/02_Word_Embeddings/meta.tsv
+03_NLP_Tensorflow/02_Word_Embeddings/vecs.tsv
+03_NLP_Tensorflow/02_Word_Embeddings/sarcasm.json
