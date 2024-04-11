@@ -14,15 +14,14 @@
 
 ### 03- Natural Language Processing in TensorFlow
 * week 01: Sentiment in text ✅
-* week 02: Word Embeddings 🚀
-* week 03: Sequence Models
+* week 02: Word Embeddings ✅
+* week 03: Sequence Models🚀
 * week 04: Sequence Models and literature
 
 ### 04- Sequences, Time Series and Prediction
 * week 01: Sequence and Prediction 
 * week 02: Deep Neural Network for Time Series
 * week 03: Recurrent Neural Networks for Time Series 
-* week 04: Real-World Time Series Data 
-
+* week 04: Real-World Time Series Data
 
 Current Status: ✅: Done | 🚀: In Progress
