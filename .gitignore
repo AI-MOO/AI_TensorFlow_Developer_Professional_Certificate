@@ -21,3 +21,4 @@ ai_env
 03_NLP_Tensorflow/02_Word_Embeddings/meta.tsv
 03_NLP_Tensorflow/02_Word_Embeddings/vecs.tsv
 03_NLP_Tensorflow/02_Word_Embeddings/sarcasm.json
+03_NLP_Tensorflow/03_Sequence_Models/sarcasm.json
